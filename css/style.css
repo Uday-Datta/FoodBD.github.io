@@ -1,0 +1,23 @@
+.carousel-caption{
+    top: 200px;
+}
+.m-right{
+    border-right: 2px solid white;
+}
+.underline{
+    width: 100px;
+    height: 2px;
+    background-color: orranged;
+}
+.bg-light-gray{
+    background-color: rgba(111,111,111,0.09);
+}
+.media img{
+    max-width: 120px;
+    height: auto;
+}
+.underline-green{
+    width: 70px;
+    height: 2px;
+    background-color: lawngreen;
+}
